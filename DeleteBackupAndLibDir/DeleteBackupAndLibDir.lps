@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Release"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="DeleteBackupAndLibDir.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="27"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="fmain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="FMain"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="156"/>
+        <CursorPos X="48" Y="169"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="4" Y="28"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="11" HistoryIndex="10">
+      <Position1>
+        <Filename Value="fmain.pas"/>
+      </Position1>
+      <Position2>
+        <Filename Value="fmain.pas"/>
+        <Caret Line="42" Column="65" TopLine="24"/>
+      </Position2>
+      <Position3>
+        <Filename Value="fmain.pas"/>
+        <Caret Line="43" Column="65" TopLine="25"/>
+      </Position3>
+      <Position4>
+        <Filename Value="fmain.pas"/>
+        <Caret Line="45" Column="65" TopLine="27"/>
+      </Position4>
+      <Position5>
+        <Filename Value="fmain.pas"/>
+        <Caret Line="58" Column="33" TopLine="33"/>
+      </Position5>
+      <Position6>
+        <Filename Value="fmain.pas"/>
+        <Caret Line="76" Column="37" TopLine="62"/>
+      </Position6>
+      <Position7>
+        <Filename Value="fmain.pas"/>
+        <Caret Line="77" Column="79" TopLine="62"/>
+      </Position7>
+      <Position8>
+        <Filename Value="fmain.pas"/>
+        <Caret Line="86" Column="65" TopLine="70"/>
+      </Position8>
+      <Position9>
+        <Filename Value="fmain.pas"/>
+        <Caret Line="88" Column="65" TopLine="72"/>
+      </Position9>
+      <Position10>
+        <Filename Value="fmain.pas"/>
+        <Caret Line="41" Column="51" TopLine="41"/>
+      </Position10>
+      <Position11>
+        <Filename Value="fmain.pas"/>
+        <Caret Line="164" Column="45" TopLine="145"/>
+      </Position11>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
