@@ -1,0 +1,82 @@
+object Form1: TForm1
+  Left = 113
+  Height = 566
+  Top = 105
+  Width = 775
+  BorderIcons = [biSystemMenu, biMinimize]
+  Caption = 'Unicode - 4E00 [Chinese Charater] - 20924'
+  ClientHeight = 566
+  ClientWidth = 775
+  Constraints.MaxHeight = 566
+  Constraints.MaxWidth = 775
+  Constraints.MinHeight = 566
+  Constraints.MinWidth = 775
+  Font.Height = -13
+  OnCreate = FormCreate
+  LCLVersion = '2.0.10.0'
+  object StatusBar1: TStatusBar
+    Left = 0
+    Height = 23
+    Top = 543
+    Width = 775
+    Panels = <>
+  end
+  object Panel1: TPanel
+    Left = 3
+    Height = 50
+    Top = 3
+    Width = 769
+    Align = alTop
+    BorderSpacing.Around = 3
+    BevelOuter = bvNone
+    ClientHeight = 50
+    ClientWidth = 769
+    TabOrder = 1
+    object ComboBox1: TComboBox
+      Left = 11
+      Height = 25
+      Top = 12
+      Width = 284
+      DropDownCount = 16
+      ItemHeight = 17
+      OnChange = ComboBox1Change
+      Style = csDropDownList
+      TabOrder = 0
+    end
+    object Panel2: TPanel
+      Left = 318
+      Height = 42
+      Top = 4
+      Width = 58
+      Caption = 'W'
+      Font.Height = -19
+      ParentFont = False
+      TabOrder = 1
+    end
+    object Label1: TLabel
+      Left = 384
+      Height = 17
+      Top = 16
+      Width = 38
+      Caption = 'Label1'
+      ParentColor = False
+    end
+  end
+  object StringGrid1: TStringGrid
+    Left = 3
+    Height = 484
+    Top = 56
+    Width = 769
+    Align = alClient
+    BorderSpacing.Left = 3
+    BorderSpacing.Right = 3
+    BorderSpacing.Bottom = 3
+    ColCount = 17
+    DefaultColWidth = 44
+    DefaultRowHeight = 40
+    RowCount = 1313
+    TabOrder = 2
+    OnDrawCell = StringGrid1DrawCell
+    OnSelectCell = StringGrid1SelectCell
+  end
+end
