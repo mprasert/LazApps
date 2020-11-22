@@ -4,15 +4,15 @@
 
   <b>CalendarWallpaper</b> - โปรแกรมสร้างปฏิทินวอลเปเปอร์
   
-  ChineseChar - แสดงตัวอักษรจีน
+  <b>ChineseChar</b> - แสดงตัวอักษรจีน
   
-  DeleteBackupAndLibDir - ลบไดเร็กทอรี backup และ lib ที่สร้างโดย Projects ของ Lazarus
+  <b>DeleteBackupAndLibDir</b> - ลบไดเร็กทอรี backup และ lib ที่สร้างโดย Projects ของ Lazarus
   
-  MatchMe - เกมจับคู่ภาพ
+  <b>MatchMe</b> - เกมจับคู่ภาพ
   
-  Puzzle15 - เกมเลื่อนตาราง 15
+  <b>Puzzle15</b> - เกมเลื่อนตาราง 15
   
-  SwoppyWin 1.1 - เกมจิกซอสลับภาพ
+  <b>SwoppyWin 1.1</b> - เกมจิกซอสลับภาพ
   
-  SwoppyWin 2.0 - เกมจิกซอสลับภาพ
+  <b>SwoppyWin 2.0</b> - เกมจิกซอสลับภาพ
   
