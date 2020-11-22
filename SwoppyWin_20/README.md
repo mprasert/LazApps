@@ -1,9 +1,7 @@
-# LazApps
+# SwoppyWin 2.0
 
-โปรแกรมที่เขียนด้วย Lazarus   ดูรายละเอียดที่ https://sites.google.com/view/mprasert
+เกมส์จิกซอร์สลับภาพ 
 
-	ChineseChar - แสดงตัวอักษรจีน
-	DeleteBackupAndLibDir - ลบไดเร็กทอรี backup และ lib ที่สร้างโดย Projects ของ Lazarus
-	MatchMe - เกมจับคู่ภาพ
-	Puzzle15 - เกมเลื่อนตาราง 15
-	SwoppyWin 1.1 - เกมจิกซอสลับภาพ
+<image src="swoppywin2.png">
+
+
