@@ -1,6 +1,6 @@
 # SwoppyWin 2.0
 
-เกมส์จิกซอร์สลับภาพ 
+เกมจิกซอสลับภาพ 
 
 <image src="swoppywin2.png">
 
