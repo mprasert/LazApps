@@ -1,6 +1,6 @@
-# Puzzle 15 - for Win64
+# DeleteBackupAndLibDir - for Win64
 
-เกมจิกซอว์สลับภาพ
+โปรแกรมลบไดเร็กทอรี Lib และ Backup ใน Lazarus projects
 
 <image src="DeleteBackupAndLibDir.png">
 
