@@ -2,7 +2,7 @@
 
 #### โปรแกรมที่เขียนด้วย Lazarus   ดูรายละเอียดที่ https://sites.google.com/view/mprasert
 
-  CalendarWallpaper - โปรแกรมสร้างปฏิทินวอลเปเปอร์
+  <b>CalendarWallpaper</b> - โปรแกรมสร้างปฏิทินวอลเปเปอร์
   
   ChineseChar - แสดงตัวอักษรจีน
   
