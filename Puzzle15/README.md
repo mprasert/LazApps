@@ -1,6 +1,6 @@
 # Puzzle 15 - for Win64
 
-เกมจิกซอว์สลับภาพ
+เกมเลื่อนตาราง
 
 <image src="puzzle15.png">
 
