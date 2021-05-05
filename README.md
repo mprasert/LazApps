@@ -18,4 +18,4 @@
   
   <b>NeoSudoku 1.0.1</b> - เกมซูโดกุ
   
-  <b>MasterLogic</b> - เกมฝึกสมอง
+  <b>MasterLogic 1.2</b> - เกมฝึกสมอง
