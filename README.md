@@ -1,6 +1,6 @@
 # LazApps
 
-#### โปรแกรมที่เขียนด้วย Lazarus   ดูรายละเอียดที่ https://sites.google.com/view/mprasert
+#### โปรแกรมที่เขียนด้วย Lazarus   ดูรายละเอียดที่ https://sites.google.com/site/neovember/lazarus
 
   <b>CalendarWallpaper</b> - โปรแกรมสร้างปฏิทินวอลเปเปอร์
   
@@ -16,3 +16,6 @@
   
   <b>SwoppyWin 2.0</b> - เกมจิกซอสลับภาพ
   
+  <b>NeoSudoku 1.0.1</b> - เกมซูโดกุ
+  
+  <b>MasterLogic</b> - เกมฝึกสมอง
